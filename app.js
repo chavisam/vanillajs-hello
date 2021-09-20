@@ -14,7 +14,7 @@ for ( let word in pronoun) {
 
             document.write(pronoun[word]);
             document.write(adj[i]);
-            document.write(noun[y]);
+            document.write(noun[y] + '.com');
 
              document.write('<br>');
 
